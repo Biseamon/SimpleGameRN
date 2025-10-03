@@ -3,7 +3,7 @@
     "name": "SimpleGameRN",
     "slug": "SimpleGameRN",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default", /* "default", "portrait", or "landscape"*/
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
